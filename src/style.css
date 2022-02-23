@@ -1,16 +1,10 @@
-form {
-  font-size: 16px;
-}
-
-.box {
-  margin: 10px 0;
-}
-
-input {
-  margin: 5px;
-}
-
-.label {
+/* styles go here */
+.label-field {
   display: block;
-  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.form-fieldset {
+  margin-bottom: 20px;
+  padding-bottom: 0;
 }
